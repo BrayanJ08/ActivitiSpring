@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "barrio": "Poblado",
+        "direccion": "Calle 10 # 32-45",
+        "precio": 350000000
+    },
+    {
+        "id": 2,
+        "barrio": "Envigado",
+        "direccion": "Carrera 25 # 15-18",
+        "precio": 280000000
+    },
+    {
+        "id": 3,
+        "barrio": "Laureles",
+        "direccion": "Calle 35 # 40-60",
+        "precio": 400000000
+    },
+    {
+        "id": 4,
+        "barrio": "El Poblado",
+        "direccion": "Carrera 40 # 22-10",
+        "precio": 310000000
+    }
+]
